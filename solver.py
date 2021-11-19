@@ -73,7 +73,8 @@ def find_empty(bo):
             if(bo[i][j]==0):
                 return (i,j)
 
+print("Unsolved puzzle:")
 print_sudo(board)
 solve(board)
-print("--------------------------")
+print("Solved sudoku:")
 print_sudo(board) 
