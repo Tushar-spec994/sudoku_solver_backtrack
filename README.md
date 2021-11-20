@@ -1,0 +1,1 @@
+![]("C:\Users\KIIT\Documents\sudoku_solver\OUTPUT.jpg")
